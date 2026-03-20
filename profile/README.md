@@ -8,7 +8,7 @@
 |------|-------------|--------------|
 | `transcription` | Transcription data | [Browse →](https://github.com/orgs/LaudareProject/repositories?q=props.type%3Atranscription) |
 | `research` | Research code and analysis | [Browse →](https://github.com/orgs/LaudareProject/repositories?q=props.type%3Aresearch) |
-| `infrastructure` | Website, data entry, visualization, IIIF platform | [Browse →](https://github.com/orgs/LaudareProject/repositories?q=props.type%3Ainfrastructure&archived=false) |
+| `infrastructure` | Website, data entry, visualization, IIIF platform | [Browse →](https://github.com/orgs/LaudareProject/repositories?q=props.type%3Ainfrastructure+archived%3Afalse) |
 
 ## Funding
 
