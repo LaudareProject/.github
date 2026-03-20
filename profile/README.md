@@ -1,6 +1,6 @@
-# LaudareProject
+# The Italian Lauda: Disseminating Poetry and Concepts Through Melody (12th-16th centuries)
 
-[Laudare](https://laudare.eu) is a research project focused on the digital study of medieval *laude* manuscripts — a repertoire of vernacular devotional songs from medieval Italy. The project combines manuscript transcription, computer vision, and digital humanities methods to make these historical sources more accessible and analyzable.
+[Laudare](https://laudare.eu) is a research project focused on the digital study of medieval *lauda* manuscripts — a repertoire of vernacular devotional songs from medieval Italy. The project combines manuscript transcription, computer vision, and digital humanities methods to make these historical sources more accessible and analyzable.
 
 ## Repository index
 
