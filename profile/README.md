@@ -10,6 +10,8 @@
 | `research` | Research code and analysis | [Browse →](https://github.com/orgs/LaudareProject/repositories?q=props.type%3Aresearch) |
 | `infrastructure` | Website, data entry, visualization, IIIF platform | [Browse →](https://github.com/orgs/LaudareProject/repositories?q=props.type%3Ainfrastructure+archived%3Afalse) |
 
+[Here](https://github.com/LaudareProject/transcription-issues) are listed all the open issues about transcription repositories.
+
 ## Funding
 
 [![European Union funding logo](https://github.com/user-attachments/assets/a6904e5a-99f9-4680-aebd-ecf0aeefa797)](https://doi.org/10.3030/101054750)
